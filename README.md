@@ -4,7 +4,7 @@
     <img alt="Project page" src="https://img.shields.io/badge/Project%20page-visit-blue">
   </a>
   <a href="">
-    <img alt="arXiv" src="https://img.shields.io/static/v1?label=ArXiv&color=B31B1B&logo=arxiv">
+    <img alt="arXiv" src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
   </a>
   <img alt="Status: Under review" src="https://img.shields.io/badge/status-under_review-ffaa00">
   <a href="./LICENSE">
