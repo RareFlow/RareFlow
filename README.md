@@ -1,8 +1,10 @@
 # 🛰️ RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features
-
+  <a href="https://rareflow/">
+    <img alt="Project page" src="https://img.shields.io/badge/Project%20page-visit-blue">
+  </a>
 <p align="left">
   <!-- TODO: Update links/IDs or remove badges you don't want -->
-  <a href="https://arxiv.org/abs/2402.05195">
+  <a href="">
     <img alt="arXiv" src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
   </a>
   <img alt="Status: Under review" src="https://img.shields.io/badge/status-under_review-ffaa00">
