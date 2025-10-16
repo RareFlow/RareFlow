@@ -10,9 +10,6 @@
   <a href="./LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
   </a>
-  <a href="https://github.com/rareflow/rareflow/actions">
-    <img alt="CI" src="https://img.shields.io/badge/CI-coming_soon-lightgrey">
-  </a>
 </p>
 
 > **TL;DR**: RareFlow is a physics-aware, dual-conditioned flow-matching framework for cross-sensor super-resolution (SR) of rare geomorphic features.  
