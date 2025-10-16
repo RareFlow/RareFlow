@@ -1,8 +1,8 @@
 # 🛰️ RareFlow: Physics-Aware Flow-Matching for Cross-Sensor Super-Resolution of Rare-Earth Features
+ <p align="left">
   <a href="https://rareflow/">
     <img alt="Project page" src="https://img.shields.io/badge/Project%20page-visit-blue">
   </a>
-<p align="left">
   <!-- TODO: Update links/IDs or remove badges you don't want -->
   <a href="">
     <img alt="arXiv" src="https://img.shields.io/static/v1?label=ArXiv&message=2402.05195&color=B31B1B&logo=arxiv">
@@ -11,7 +11,7 @@
   <a href="./LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
   </a>
-  <a href="https://github.com/USER/rareflow/actions">
+  <a href="https://github.com/rareflow/rareflow/actions">
     <img alt="CI" src="https://img.shields.io/badge/CI-coming_soon-lightgrey">
   </a>
 </p>
