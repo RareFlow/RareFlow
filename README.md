@@ -38,10 +38,6 @@
 
 > We will release pre-processing & normalization utilities (percentile and fixed-range) and pairing scripts **upon acceptance**.
 
-<p align="center">
-  <img src="assets/data_challenges.png" alt="Data challenges: radiometry, misalignment, crop size (placeholder)" width="80%">
-</p>
-
 ---
 
 ## 🗺️ Roadmap
